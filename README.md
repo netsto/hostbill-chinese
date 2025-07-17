@@ -29,8 +29,9 @@
 - [HostBill 官方语言文档](https://hostbill.atlassian.net/wiki/spaces/DOCS/pages/491925/Languages#Import-Language)
 - [HostBill 官网](https://hostbillapp.com/)
 
+## 版本兼容
+HostBill Version: 2025-01-02
+
 ## 版权声明
 
 本语言包仅供 HostBill 用户学习、交流和使用，不得用于商业销售。所有版权归 HostBill 官方所有。
-
-兼容到版本Version: 2025-01-02
